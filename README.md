@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jokyeon
+- 👀 I’m interested in codeinh and games
+- 🌱 I’m currently learning java
